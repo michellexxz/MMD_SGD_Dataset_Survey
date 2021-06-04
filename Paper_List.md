@@ -92,12 +92,9 @@ This is a paper list for multimodal or schema-guided dialogue dataset and some r
 | 8 | The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics | ArXiv | 01/04/2021 | [[Paper]](https://arxiv.org/pdf/2102.01672.pdf)<br>[[Code]](https://github.com/google/BIG-bench)<br>[]() | --- | 6 | SGD |
 
 ### Evaluation / User Simulator
+
 | No.| Paper | Publication | Date | Links | Keywords | Cited Times | Influenced by / About |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Quality aspects of multimodal dialog systems: identity, stimulation and success | INTERSPEECH | 28/08/2011 | [[Paper]](http://isca-speech.org/archive/archive_papers/interspeech_2011/i11_1349.pdf)<br>[]() | Multimodal Dialog Systems ; Evaluation ; USABILITY | 1 | MMD |
 | 2 | DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue | ArXiv | 28/09/2020 | [[Paper]](https://arxiv.org/pdf/2009.13570.pdf)<br>[[Code]](https://github.com/alexa/dialoglue)<br>[]() | Domain Adaptation  Natural Language Understanding | 9 | SGD |
 | 3 | Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems | ArXiv | 08/05/2021 | [[Paper]](https://arxiv.org/pdf/2105.03748.pdf)<br>[[Data & Code]](https://github.com/sunnweiwei/user-satisfaction-simulation)<br>[]() | Domain Generalization ; Task-Oriented Dialogue Systems | Unknown | SGD |
-
-## Copyright
-By Xiaoxia ZHANG (michelle_xxz@126.com) from University of the New Sorbonne - Paris III.
-**Welcome to open an issue or make a pull request!**
