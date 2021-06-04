@@ -9,6 +9,6 @@ In order to read a brief abstract of the papers, please access the file "[Paper_
 For consulting the tables summaried from the paper list, please check the file "[Summary.md](./Summary.md)".
 
 # Copyright
-By Xiaoxia ZHANG (michelle_xxz@126.com) from University of the New Sorbonne - Paris III.
+By Xiaoxia ZHANG (michelle_xxz@126.com / zhangxiaoxia.michelle@gmail.com) from University of the New Sorbonne - Paris III.
 
 **Welcome to open an issue or make a pull request!**
