@@ -11,7 +11,7 @@ This is a paper list for multimodal or schema-guided dialogue dataset and some r
 ### Review
 
 | No.| Paper | Publication | Date | Links | Cited Times | Influenced by / About |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Multimodal Research in Vision and Language: A Review of Current and Emerging Trends | ArXiv | 22/12/2020 | [[Paper]](https://arxiv.org/pdf/2010.09522.pdf)<br>[[Note]](Paper_Notes#) | Unknown | MMD |
 | 2 | A Comparative Study on Schema-Guided Dialogue State Tracking | NAACL | --/--/2021 | [[Paper]](https://assets.amazon.science/b2/aa/e2bfe3a44c109141d65fdfd4e8f0/a-comparative-study-on-schema-guided-dialogue-state-tracking.pdf)<br>[]() | Unknown | SGD |
 
@@ -38,13 +38,13 @@ This is a paper list for multimodal or schema-guided dialogue dataset and some r
 ### Cross-Domain / Continual Learning
 
 | No.| Paper | Publication | Date | Links | Keywords | Cited Times | Influenced by / About |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Continual Learning in Task-Oriented Dialogue Systems | ArXiv | 31/12/2020 | [[Paper]](https://arxiv.org/pdf/2012.15504.pdf)<br>[]() | Continual Learning ; Multi-Task Learning ; Task-Oriented Dialogue Systems ; Text Generation | Unknown | SGD |
 
 ### Neural Language Model (NLM)
 
 | No.| Paper | Publication | Date | Links | Keywords | Cited Times | Influenced by / About |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Pretraining the Noisy Channel Model for Task-Oriented Dialogue | ArXiv | 18/03/2021 | [[Paper]](https://arxiv.org/pdf/2103.10518.pdf)<br>[]() | --- | Unknown | SGD |
 | 2 | "What's The Context?" : Long Context NLM Adaptation for ASR Rescoring in Conversational Agents | ArXiv | 21/04/2021 | [[Paper]](https://arxiv.org/pdf/2104.11070.pdf)<br>[]() | Intent Classification ; Language Modelling ; Natural Language Understanding | Unknown | SGD |
 
@@ -81,7 +81,7 @@ This is a paper list for multimodal or schema-guided dialogue dataset and some r
 ### Natural Language Generation (NLG) / Response Generation
 
 | No.| Paper | Publication | Date | Links | Keywords | Cited Times | Influenced by / About |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System | ACL | 28/07/2019 | [[Paper]](https://www.cse.iitb.ac.in/~pb/papers/acl19-dialogue.pdf)<br>[]() | Goal-Oriented Dialogue Systems | 6 | MMD |
 | 2 | Multimodal Dialog System: Generating Responses via Adaptive Decoders | ACM Multimedia (MM) | 15/10/2019 | [[Paper]](https://liqiangnie.github.io/paper/fp349-nieAemb.pdf)<br>[[Dataset & Code]](https://acmmultimedia.wixsite.com/magic)<br>[]() | Multimodal Dialog Systems ; Multiform Knowledge-aware Decoder ; Adaptive Decoders | 7 | MMD |
 | 3 | Schema-Guided Natural Language Generation | INLG | 11/05/2020 | [[Paper]](https://www.aclweb.org/anthology/2020.inlg-1.35.pdf)<br>[[Data]](https://github.com/alexa/schema-guided-nlg)<br>[]() | Text Generation | 1 | SGD |
