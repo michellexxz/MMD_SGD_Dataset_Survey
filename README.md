@@ -1,4 +1,4 @@
-# MMD-SGD-Dataset-Survey
+# MMD_SGD_Dataset_Survey
 
 This work is for the MA's stage and paper. It is about multimodal datasets and schema-guided dialogue datasets.
 
