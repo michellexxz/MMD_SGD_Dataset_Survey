@@ -15,7 +15,7 @@ This work is for the MA's stage and paper. It is about multimodal datasets and s
 - Task-Oriented Dialogue
 - Natural Language Processing
 
-# Copyright
+## Copyright
 By Xiaoxia ZHANG (michelle_xxz@126.com / zhangxiaoxia.michelle@gmail.com) from University of the New Sorbonne - Paris III.
 
 **Welcome to open an issue or make a pull request!**
