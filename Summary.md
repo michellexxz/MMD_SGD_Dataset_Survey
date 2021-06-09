@@ -4,7 +4,7 @@ In this document, we present the tables summaried form the papers cited in the p
 ## Multimodal Dialogue
 | Paper | Dataset | Visual Encoder | Language Model | Encoder | Decoder |
 | --- | --- | --- | --- | --- | --- |
-| Towards Building Large Scale Multimodal Domain-Aware Conversation Systems | MMD | VGGNet-16 | Multimodal HRED Model |  Bidirectional RNN network with GRU | GRU + Attention model |
+| Towards Building Large Scale Multimodal Domain-Aware Conversation Systems | MMD | VGGNet-16 | Multimodal HRED Model |  Bidirectional RNN network with GRU | GRU + Attention |
 | The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service | JDDC |  | Multimodal Dialogue Dense Retriever; Multimodal Hierarchical Encoder Decoder | 
 
 
