@@ -101,6 +101,6 @@ This is a paper list for multimodal or schema-guided dialogue dataset and some r
 
 ## Copyright
 
-By Xiaoxia ZHANG (michelle_xxz@126.com) from University of the New Sorbonne - Paris III.
+By Xiaoxia ZHANG (michelle_xxz@126.com / zhangxiaoxia.michelle@gmail.com) from University of the New Sorbonne - Paris III.
 
 **Welcome to open an issue or make a pull request!**
