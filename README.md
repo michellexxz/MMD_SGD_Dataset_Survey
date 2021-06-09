@@ -13,7 +13,7 @@ For consulting the tables summaried from the paper list, please check the file "
 - Multimodal Dialogue
 - Schema-Guided Dialogue (SGD)
 - Task-Oriented Dialogue
-- Natural Language Processing*
+- Natural Language Processing
 
 # Copyright
 By Xiaoxia ZHANG (michelle_xxz@126.com / zhangxiaoxia.michelle@gmail.com) from University of the New Sorbonne - Paris III.
