@@ -12,12 +12,12 @@ In this document, we present the tables summaried form the papers cited in the p
 
 | Paper | Dataset | Language Model | Encoder | Decoder |
 | --- | --- | --- | --- | --- |
-| Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset | SGD |
-| CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ | BERTNLU-context | BERT + | 
-| STAR: A Schema-Guided Dialog Dataset for Transfer Learning | STAR |
+| Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset | SGD | BERT-DST (Schema Embedding Module + State Update Module) | BERT | Softmax | Benchmark; Zero-shot DST |
+| CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ |  | BERTNLU-context | 
+| STAR: A Schema-Guided Dialog Dataset for Transfer Learning | STAR | Schema-free model; Schema-guided BERT classifier; Fine-tune GPT-2 (generation) | BERT | Linear layer; Softmax | Zero-shot generalization across tasks and domains; Schema = task specification ≠ **S**GD |
 | RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling | RiSAWOZ |
 | Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems | ABCD |
-| Adding Chit-Chats to Enhance Task-Oriented Dialogues | ACCENTOR |
+| Adding Chit-Chats to Enhance Task-Oriented Dialogues | ACCENTOR |  |  |  | Integrate both types of systems (task-oriented systems + open-domain chatbots) |
 
 ## Dataset
 | Paper | Dataset | Domain | Size | Data Colletion Method |
