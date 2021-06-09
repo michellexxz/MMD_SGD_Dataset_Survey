@@ -11,7 +11,7 @@ In this document, we present the tables summaried form the papers cited in the p
 ## Schema-Guided Dialogue (SGD)
 
 | Paper | Dataset | Language Model | Encoder | Decoder | Issue |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset | SGD | BERT-DST (Schema Embedding Module + State Update Module) | BERT | Softmax | Benchmark; Zero-shot DST |
 | CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ |  | BERTNLU-context | 
 | STAR: A Schema-Guided Dialog Dataset for Transfer Learning | STAR | Schema-free model; Schema-guided BERT classifier; Fine-tune GPT-2 (for generation) | BERT | Linear layer; Softmax | Zero-shot generalization across tasks and domains; Schema = task specification ≠ **S**GD |
