@@ -8,6 +8,13 @@ In order to read a brief abstract of the papers, please access the file "[Paper_
 
 For consulting the tables summaried from the paper list, please check the file "[Summary.md](./Summary.md)".
 
+# Keywords
+
+- Multimodal Dialogue
+- Schema-Guided Dialogue (SGD)
+- Task-Oriented Dialogue
+- Natural Language Processing*
+
 # Copyright
 By Xiaoxia ZHANG (michelle_xxz@126.com / zhangxiaoxia.michelle@gmail.com) from University of the New Sorbonne - Paris III.
 
