@@ -4,7 +4,7 @@
 
 This is a paper list for multimodal or schema-guided dialogue dataset and some related research areas. The cited times are statisticized by site [Semantic Scholar](https://www.semanticscholar.org/) and the data is collected on 18/05/2021. The information of published dates and keywords are gathered on the site [Paperswithcode](https://paperswithcode.com/), [Library of Lanzhou University of Technology](https://lib.lut.edu.cn/) or the papers. All articles are sorted chronologically by research field.
 
-**Keyword:** *Multimodal Dialogue, Schema-Guided Dialogue (SGD), Natural Language Processing*
+**Keyword:** *Multimodal Dialogue, Schema-Guided Dialogue (SGD), Task-Oriented Dialogue, Natural Language Processing*
 
 ## Paper List
 
